@@ -1,0 +1,16 @@
+class Solution(object):
+    def findRestaurant(self, list1, list2):
+        dic = {}
+        mini = float('inf')
+        for i in range(0,len(list1)):
+            for j in range(0,len(list2)):
+                if(list1[i]==list2[j]):
+                    dic[list1[i]] = j+i
+                    mini = min(mini,j+i)
+        ans = []
+        for k in dic:
+            if(dic.get(k)==mini):
+                ans.append(k)
+        return ans
+
+        
