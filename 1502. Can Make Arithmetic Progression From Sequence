@@ -1,0 +1,14 @@
+class Solution(object):
+    def canMakeArithmeticProgression(self, arr):
+        list.sort(arr)
+        lis = []
+
+        for i in range(0,len(arr)-1):
+            lis.append(arr[i+1]-arr[i])
+
+        for i in range(0,len(lis)-1):
+            if(lis[i]!=lis[i+1]):
+                return False
+
+        return True
+        
