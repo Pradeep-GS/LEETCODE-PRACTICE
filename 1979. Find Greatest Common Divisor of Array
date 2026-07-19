@@ -1,0 +1,19 @@
+# Solution 1
+class Solution(object):
+
+    def gcd(self, a, b):
+        while b != 0:
+            a, b = b, a % b
+        return abs(a)
+
+    def findGCD(self, nums):
+        return self.gcd(max(nums), min(nums))
+
+#solution 2
+
+class Solution:
+    def findGCD(self, nums: List[int]) -> int:
+        max_num = max(nums)
+        min_num = min(nums)
+        return math.gcd(min_num,max_num)
+        
