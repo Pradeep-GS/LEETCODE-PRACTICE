@@ -1,0 +1,23 @@
+class Solution(object):
+    def maxDigitRange(self, nums):
+        maximum = -1
+        ans = 0
+
+        for num in nums:
+            mx = 0
+            mn = 9
+
+            for d in str(num):
+                digit = int(d)
+                mx = max(mx, digit)
+                mn = min(mn, digit)
+
+            r = mx - mn
+
+            if r > maximum:
+                maximum = r
+                ans = num
+            elif r == maximum:
+                ans += num
+
+        return ans
