@@ -1,0 +1,15 @@
+class Solution(object):
+    def reverseStr(self, s, k):
+        li = []
+        for i in range(0,len(s),k):
+            li.append(s[i:k+i])
+        for i in range(len(li)):
+            val = li[i]
+            if i%2==0:
+                li[i] = val[::-1]
+            else:
+                li[i] = val
+        
+        answer = "".join(li)
+        return answer
+        
