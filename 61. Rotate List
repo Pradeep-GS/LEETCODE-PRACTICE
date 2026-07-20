@@ -1,0 +1,38 @@
+class Solution {
+    public ListNode rotateRight(ListNode head, int k) {
+        if (head == null || head.next == null || k == 0)
+            return head;
+        ArrayList<Integer> lis = new ArrayList<>();
+        ListNode temp = head;
+        while(temp!=null){
+            lis.add(temp.val);
+            temp = temp.next;
+        }
+        int n = lis.size();
+        k = k%n;
+        if (k == 0)
+            return head;
+        rotate(lis,0,n-1);
+        rotate(lis,0,k-1);
+        rotate(lis,k,n-1);
+
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        for(int i:lis){
+            curr.next = new ListNode(i);
+            curr = curr.next;
+        }
+        return dummy.next;
+        
+        
+    }
+    public void rotate(ArrayList<Integer> lis, int l, int r) {
+        while (l < r) {
+            int temp = lis.get(l);
+            lis.set(l, lis.get(r));
+            lis.set(r, temp);
+            l++;
+            r--;
+        }
+    }
+}
