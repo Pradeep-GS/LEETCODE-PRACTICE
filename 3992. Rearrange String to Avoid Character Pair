@@ -1,0 +1,14 @@
+class Solution(object):
+    def rearrangeString(self, s, x, y):
+        start = ""
+        middle = ""
+        end = ""
+
+        for c in s:
+            if c==y:
+                start+=c
+            elif c==x:
+                end+=c
+            else:
+                middle+=c
+        return start+middle+end
