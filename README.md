@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
