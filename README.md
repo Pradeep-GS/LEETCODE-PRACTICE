@@ -12,6 +12,7 @@
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
