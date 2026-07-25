@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
