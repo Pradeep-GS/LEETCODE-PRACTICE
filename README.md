@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -46,5 +47,10 @@
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
