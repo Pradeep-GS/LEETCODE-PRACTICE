@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
