@@ -7,6 +7,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String
 |  |
 | ------- |
