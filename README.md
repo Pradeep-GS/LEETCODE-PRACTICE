@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0709-to-lower-case](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0709-to-lower-case) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
