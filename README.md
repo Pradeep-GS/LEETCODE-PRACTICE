@@ -63,6 +63,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1873-calculate-special-bonus) |
 ## Math
 |  |
 | ------- |
