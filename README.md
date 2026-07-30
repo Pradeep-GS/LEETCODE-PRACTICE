@@ -58,6 +58,7 @@
 | [0595-big-countries](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1068-product-sales-analysis-i) |
 ## Math
 |  |
 | ------- |
