@@ -56,6 +56,7 @@
 | [0584-find-customer-referee](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0620-not-boring-movies) |
 ## Math
 |  |
 | ------- |
