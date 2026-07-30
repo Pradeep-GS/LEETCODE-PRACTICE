@@ -15,6 +15,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
