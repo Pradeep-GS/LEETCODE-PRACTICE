@@ -1,0 +1,16 @@
+class Solution {
+    public double average(int[] salary) {
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        int totsum = 0;
+        for(int i:salary)
+        {
+            totsum+=i;
+            min=Math.min(min,i);
+            max=Math.max(max,i);
+        }
+        totsum-=(min+max);
+        double res = (double) totsum/(salary.length-2);
+        return res;
+    }
+}
