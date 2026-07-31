@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1323-maximum-69-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -88,6 +89,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
