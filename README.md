@@ -12,6 +12,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3731-find-missing-elements](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3731-find-missing-elements](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
@@ -82,6 +84,7 @@
 | [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
