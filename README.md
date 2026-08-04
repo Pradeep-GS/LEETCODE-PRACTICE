@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -96,4 +97,8 @@
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
