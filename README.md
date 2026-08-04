@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -76,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -101,4 +103,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
