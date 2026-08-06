@@ -77,6 +77,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -110,4 +111,8 @@
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
