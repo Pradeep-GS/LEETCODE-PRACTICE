@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0131-palindrome-partitioning](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0709-to-lower-case) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
@@ -111,6 +113,7 @@
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 ## Enumeration
 |  |
 | ------- |
