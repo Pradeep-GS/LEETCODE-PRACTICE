@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0709-to-lower-case) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 ## Enumeration
@@ -125,6 +128,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -134,4 +138,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
