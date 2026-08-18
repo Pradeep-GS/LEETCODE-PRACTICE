@@ -124,11 +124,13 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -137,9 +139,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Pradeep-GS/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
