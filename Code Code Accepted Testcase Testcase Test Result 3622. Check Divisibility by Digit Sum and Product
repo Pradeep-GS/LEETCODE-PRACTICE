@@ -1,0 +1,27 @@
+class Solution {
+    public boolean checkDivisibility(int n) {
+        int pro = product(n);
+        int sum = sum(n);
+        int tot = pro+sum;
+        return n%tot==0;
+    }
+    public static int product(int n){
+        int pro =1;
+        while(n!=0){
+            int rem = n%10;
+            pro*=rem;
+            n/=10;
+        }
+        return pro;
+    }
+
+    public static int sum(int n){
+        int pro =0;
+        while(n!=0){
+            int rem = n%10;
+            pro+=rem;
+            n/=10;
+        }
+        return pro;
+    }
+}
